@@ -1,10 +1,10 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
 }
-h1#tit {
+.title {
     background:rgb(207, 206, 206);
     color: black;
-    font:  25pt Arial;
+    font:  16pt Arial;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-bottom-right-radius: 20px;
     padding: 20px;
